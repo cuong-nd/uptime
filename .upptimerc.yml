@@ -33,8 +33,6 @@ sites:
     url: scs71.com
   - name: web15  
     url: bacs-api.scs71.com
-  - name: web16  
-    url: email.scs71.com
   - name: web17  
     url: dock-scheduler.scs71.com
   - name: web18  
@@ -59,10 +57,6 @@ sites:
     url: nightly-crawler.cargoschedule.com
   - name: web28  
     url: nightly.cargoschedule.com
-  - name: web29  
-    url: staging-com.cargoschedule.com
-  - name: web30  
-    url: staging-crawler.cargoschedule.com
   - name: web31  
     url: staging.cargoschedule.com
   - name: web32  
