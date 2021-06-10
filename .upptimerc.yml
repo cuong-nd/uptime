@@ -3,122 +3,113 @@ owner: cuongnd-scs # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: web
+  - name: web1
     url: guardian-data.symcresol.com
-  - name: web  
+  - name: web2
     url: www.gear71.com
-  - name: web  
+  - name: web3  
     url: gear71.com
-  - name: web  
+  - name: web4 
     url: captain-portal-nightly.scs71.com
-  - name: web  
+  - name: web5 
     url: vqs-one-nightly.scs71.com
-  - name: web  
+  - name: web6 
     url: captain-portal-staging.scs71.com
-  - name: web  
+  - name: web7 
     url: dock-scheduler-staging.scs71.com
-  - name: web  
+  - name: web8 
     url: vits-staging.scs71.com
-  - name: web  
+  - name: web9 
     url: vqs-one-staging.scs71.com
-  - name: web  
+  - name: web10  
     url: dock-scheduler-nightly.scs71.com
-  - name: web  
+  - name: web11 
     url: captain-portal.scs71.com
-  - name: web  
+  - name: web12  
     url: ooo.scs71.com
-  - name: web  
+  - name: web13  
     url: www.scs71.com
-  - name: web  
+  - name: web14  
     url: scs71.com
-  - name: web  
+  - name: web15  
     url: bacs-api.scs71.com
-  - name: web  
+  - name: web16  
     url: email.scs71.com
-  - name: web  
+  - name: web17  
     url: dock-scheduler.scs71.com
-  - name: web  
+  - name: web18  
     url: flamingo.scs71.com
-  - name: web  
+  - name: web19  
     url: g.scs71.com
-  - name: web  
+  - name: web20  
     url: snipe-one.scs71.com
-  - name: web  
+  - name: web21  
     url: vqs-one.scs71.com
-  - name: web  
+  - name: web22  
     url: cargoschedule.com
-  - name: web  
+  - name: web23  
     url: demo-crawler.cargoschedule.com
-  - name: web  
+  - name: web24  
     url: demo-csm.cargoschedule.com
-  - name: web  
+  - name: web25  
     url: demo.cargoschedule.com
-  - name: web  
+  - name: web26  
     url: nightly-com.cargoschedule.com
-  - name: web  
+  - name: web27  
     url: nightly-crawler.cargoschedule.com
-  - name: web  
+  - name: web28  
     url: nightly.cargoschedule.com
-  - name: web  
+  - name: web29  
     url: staging-com.cargoschedule.com
-  - name: web  
+  - name: web30  
     url: staging-crawler.cargoschedule.com
-  - name: web  
+  - name: web31  
     url: staging.cargoschedule.com
-  - name: web  
+  - name: web32  
     url: dock-scheduler.scs71.com
-  - name: web  
+  - name: web33  
     url: api-flamingo-sg.symcresol.com
-  - name: web  
+  - name: web34  
     url: bacs-api-nightly.symcresol.com
-  - name: web  
+  - name: web35  
     url: bacs-api-sg.symcresol.com
-  - name: web  
-    url: chatbot-crawler-sg.symcresol.com
-  - name: web  
-    url: chatbot-crawler.symcresol.com
-  - name: web  
+  - name: web36
     url: error.symcresol.com
-  - name: web  
+  - name: web37
     url: flamingo-nightly.symcresol.com
-  - name: web  
+  - name: web38  
     url: flamingo-nyk-sg.symcresol.com
-  - name: web  
+  - name: web39 
     url: flamingo-sg.symcresol.com
-  - name: web  
+  - name: web40  
     url: g.symcresol.com
-  - name: web
+  - name: web41
     url: gear-staging.symcresol.com
-  - name: web  
+  - name: web42  
     url: gearnightly.symcresol.com
-  - name: web  
+  - name: web43  
     url: geartestingsg.symcresol.com
-  - name: web  
+  - name: web44  
     url: grafana.symcresol.com
-  - name: web  
-    url: guardian-data.symcresol.com
-  - name: web  
-    url: guardian-production.symcresol.com
-  - name: web  
+  - name: web46 
     url: homepage-nightly.symcresol.com
-  - name: web  
+  - name: web47  
     url: redash.symcresol.com
-  - name: web  
+  - name: web48  
     url: snipe-nightly.symcresol.com
-  - name: web  
+  - name: web49  
     url: snipe-sg.symcresol.com
-  - name: web  
+  - name: web50  
     url: vits-backend-staging.symcresol.com
-  - name: web  
+  - name: web51  
     url: vits-nightly-be.symcresol.com
-  - name: web  
+  - name: web52  
     url: vits-nightly-ecs.symcresol.com
-  - name: web  
+  - name: web53  
     url: vits-nightly.symcresol.com
-  - name: web
+  - name: web54
     url: https://scs71.com
-  - name: web 
-    url: https://asdasd.koj.co
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
