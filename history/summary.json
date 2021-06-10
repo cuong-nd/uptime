@@ -1,40 +1,1162 @@
 [
   {
-    "name": "SCS71",
-    "url": "https://scs71.com",
-    "icon": "https://favicons.githubusercontent.com/scs71.com",
-    "slug": "scs-71",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 829,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 829,
-    "dailyMinutesDown": {}
+    "name": "web",
+    "url": "guardian-data.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.54%",
+    "uptimeDay": "62.54%",
+    "uptimeWeek": "62.54%",
+    "uptimeMonth": "62.54%",
+    "uptimeYear": "62.54%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
   },
   {
-    "name": "Test Broken Site2",
+    "name": "web",
+    "url": "www.gear71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.38%",
+    "uptimeDay": "62.38%",
+    "uptimeWeek": "62.38%",
+    "uptimeMonth": "62.38%",
+    "uptimeYear": "62.38%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "gear71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.43%",
+    "uptimeDay": "62.43%",
+    "uptimeWeek": "62.43%",
+    "uptimeMonth": "62.43%",
+    "uptimeYear": "62.43%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "captain-portal-nightly.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.27%",
+    "uptimeDay": "62.27%",
+    "uptimeWeek": "62.27%",
+    "uptimeMonth": "62.27%",
+    "uptimeYear": "62.27%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vqs-one-nightly.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.30%",
+    "uptimeDay": "62.30%",
+    "uptimeWeek": "62.30%",
+    "uptimeMonth": "62.30%",
+    "uptimeYear": "62.30%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "captain-portal-staging.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.14%",
+    "uptimeDay": "62.14%",
+    "uptimeWeek": "62.14%",
+    "uptimeMonth": "62.14%",
+    "uptimeYear": "62.14%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "dock-scheduler-staging.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.17%",
+    "uptimeDay": "62.17%",
+    "uptimeWeek": "62.17%",
+    "uptimeMonth": "62.17%",
+    "uptimeYear": "62.17%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vits-staging.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.00%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "62.00%",
+    "uptimeMonth": "62.00%",
+    "uptimeYear": "62.00%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vqs-one-staging.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "62.06%",
+    "uptimeDay": "62.06%",
+    "uptimeWeek": "62.06%",
+    "uptimeMonth": "62.06%",
+    "uptimeYear": "62.06%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "dock-scheduler-nightly.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.89%",
+    "uptimeDay": "61.89%",
+    "uptimeWeek": "61.89%",
+    "uptimeMonth": "61.89%",
+    "uptimeYear": "61.89%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "captain-portal.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.93%",
+    "uptimeDay": "61.93%",
+    "uptimeWeek": "61.93%",
+    "uptimeMonth": "61.93%",
+    "uptimeYear": "61.93%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "ooo.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.76%",
+    "uptimeDay": "61.76%",
+    "uptimeWeek": "61.76%",
+    "uptimeMonth": "61.76%",
+    "uptimeYear": "61.76%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "www.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.79%",
+    "uptimeDay": "61.79%",
+    "uptimeWeek": "61.79%",
+    "uptimeMonth": "61.79%",
+    "uptimeYear": "61.79%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.62%",
+    "uptimeDay": "61.62%",
+    "uptimeWeek": "61.62%",
+    "uptimeMonth": "61.62%",
+    "uptimeYear": "61.62%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "bacs-api.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.66%",
+    "uptimeDay": "61.66%",
+    "uptimeWeek": "61.66%",
+    "uptimeMonth": "61.66%",
+    "uptimeYear": "61.66%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "email.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.49%",
+    "uptimeDay": "61.49%",
+    "uptimeWeek": "61.49%",
+    "uptimeMonth": "61.49%",
+    "uptimeYear": "61.49%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "dock-scheduler.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.52%",
+    "uptimeDay": "61.52%",
+    "uptimeWeek": "61.52%",
+    "uptimeMonth": "61.52%",
+    "uptimeYear": "61.52%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "flamingo.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.55%",
+    "uptimeDay": "61.55%",
+    "uptimeWeek": "61.55%",
+    "uptimeMonth": "61.55%",
+    "uptimeYear": "61.55%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "g.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.39%",
+    "uptimeDay": "61.39%",
+    "uptimeWeek": "61.39%",
+    "uptimeMonth": "61.39%",
+    "uptimeYear": "61.39%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "snipe-one.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.42%",
+    "uptimeDay": "61.42%",
+    "uptimeWeek": "61.42%",
+    "uptimeMonth": "61.42%",
+    "uptimeYear": "61.42%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vqs-one.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.25%",
+    "uptimeDay": "61.25%",
+    "uptimeWeek": "61.25%",
+    "uptimeMonth": "61.25%",
+    "uptimeYear": "61.25%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.29%",
+    "uptimeDay": "61.29%",
+    "uptimeWeek": "61.29%",
+    "uptimeMonth": "61.29%",
+    "uptimeYear": "61.29%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "demo-crawler.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.12%",
+    "uptimeDay": "61.12%",
+    "uptimeWeek": "61.12%",
+    "uptimeMonth": "61.12%",
+    "uptimeYear": "61.12%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "demo-csm.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.16%",
+    "uptimeDay": "61.16%",
+    "uptimeWeek": "61.16%",
+    "uptimeMonth": "61.16%",
+    "uptimeYear": "61.16%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "demo.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.99%",
+    "uptimeDay": "60.99%",
+    "uptimeWeek": "60.99%",
+    "uptimeMonth": "60.99%",
+    "uptimeYear": "60.99%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "nightly-com.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.03%",
+    "uptimeDay": "61.03%",
+    "uptimeWeek": "61.03%",
+    "uptimeMonth": "61.03%",
+    "uptimeYear": "61.03%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "nightly-crawler.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "61.06%",
+    "uptimeDay": "61.06%",
+    "uptimeWeek": "61.06%",
+    "uptimeMonth": "61.06%",
+    "uptimeYear": "61.06%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "nightly.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.89%",
+    "uptimeDay": "60.89%",
+    "uptimeWeek": "60.89%",
+    "uptimeMonth": "60.89%",
+    "uptimeYear": "60.89%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "staging-com.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.93%",
+    "uptimeDay": "60.93%",
+    "uptimeWeek": "60.93%",
+    "uptimeMonth": "60.93%",
+    "uptimeYear": "60.93%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "staging-crawler.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.76%",
+    "uptimeDay": "60.76%",
+    "uptimeWeek": "60.76%",
+    "uptimeMonth": "60.76%",
+    "uptimeYear": "60.76%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "staging.cargoschedule.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.80%",
+    "uptimeDay": "60.80%",
+    "uptimeWeek": "60.80%",
+    "uptimeMonth": "60.80%",
+    "uptimeYear": "60.80%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "dock-scheduler.scs71.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.63%",
+    "uptimeDay": "60.63%",
+    "uptimeWeek": "60.63%",
+    "uptimeMonth": "60.63%",
+    "uptimeYear": "60.63%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "api-flamingo-sg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.66%",
+    "uptimeDay": "60.66%",
+    "uptimeWeek": "60.66%",
+    "uptimeMonth": "60.66%",
+    "uptimeYear": "60.66%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "bacs-api-nightly.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.69%",
+    "uptimeDay": "60.69%",
+    "uptimeWeek": "60.69%",
+    "uptimeMonth": "60.69%",
+    "uptimeYear": "60.69%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "bacs-api-sg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.53%",
+    "uptimeDay": "60.53%",
+    "uptimeWeek": "60.53%",
+    "uptimeMonth": "60.53%",
+    "uptimeYear": "60.53%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "chatbot-crawler-sg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.56%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "60.56%",
+    "uptimeMonth": "60.56%",
+    "uptimeYear": "60.56%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "chatbot-crawler.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.40%",
+    "uptimeDay": "60.40%",
+    "uptimeWeek": "60.40%",
+    "uptimeMonth": "60.40%",
+    "uptimeYear": "60.40%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "error.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.44%",
+    "uptimeDay": "60.44%",
+    "uptimeWeek": "60.44%",
+    "uptimeMonth": "60.44%",
+    "uptimeYear": "60.44%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "flamingo-nightly.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.28%",
+    "uptimeDay": "60.28%",
+    "uptimeWeek": "60.28%",
+    "uptimeMonth": "60.28%",
+    "uptimeYear": "60.28%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "flamingo-nyk-sg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.32%",
+    "uptimeDay": "60.32%",
+    "uptimeWeek": "60.32%",
+    "uptimeMonth": "60.32%",
+    "uptimeYear": "60.32%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "flamingo-sg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.16%",
+    "uptimeDay": "60.16%",
+    "uptimeWeek": "60.16%",
+    "uptimeMonth": "60.16%",
+    "uptimeYear": "60.16%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "g.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.19%",
+    "uptimeDay": "60.19%",
+    "uptimeWeek": "60.19%",
+    "uptimeMonth": "60.19%",
+    "uptimeYear": "60.19%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "gear-staging.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.03%",
+    "uptimeDay": "60.03%",
+    "uptimeWeek": "60.03%",
+    "uptimeMonth": "60.03%",
+    "uptimeYear": "60.03%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "gearnightly.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "60.07%",
+    "uptimeDay": "60.07%",
+    "uptimeWeek": "60.07%",
+    "uptimeMonth": "60.07%",
+    "uptimeYear": "60.07%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "geartestingsg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.91%",
+    "uptimeDay": "59.91%",
+    "uptimeWeek": "59.91%",
+    "uptimeMonth": "59.91%",
+    "uptimeYear": "59.91%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "grafana.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.94%",
+    "uptimeDay": "59.94%",
+    "uptimeWeek": "59.94%",
+    "uptimeMonth": "59.94%",
+    "uptimeYear": "59.94%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "guardian-data.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.98%",
+    "uptimeDay": "59.98%",
+    "uptimeWeek": "59.98%",
+    "uptimeMonth": "59.98%",
+    "uptimeYear": "59.98%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "guardian-production.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.81%",
+    "uptimeDay": "59.81%",
+    "uptimeWeek": "59.81%",
+    "uptimeMonth": "59.81%",
+    "uptimeYear": "59.81%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "homepage-nightly.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.85%",
+    "uptimeDay": "59.85%",
+    "uptimeWeek": "59.85%",
+    "uptimeMonth": "59.85%",
+    "uptimeYear": "59.85%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "redash.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.69%",
+    "uptimeDay": "59.69%",
+    "uptimeWeek": "59.69%",
+    "uptimeMonth": "59.69%",
+    "uptimeYear": "59.69%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "snipe-nightly.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.72%",
+    "uptimeDay": "59.72%",
+    "uptimeWeek": "59.72%",
+    "uptimeMonth": "59.72%",
+    "uptimeYear": "59.72%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "snipe-sg.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.57%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "59.57%",
+    "uptimeMonth": "59.57%",
+    "uptimeYear": "59.57%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vits-backend-staging.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.60%",
+    "uptimeDay": "59.60%",
+    "uptimeWeek": "59.60%",
+    "uptimeMonth": "59.60%",
+    "uptimeYear": "59.60%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vits-nightly-be.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.44%",
+    "uptimeDay": "59.44%",
+    "uptimeWeek": "59.44%",
+    "uptimeMonth": "59.44%",
+    "uptimeYear": "59.44%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vits-nightly-ecs.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.47%",
+    "uptimeDay": "59.47%",
+    "uptimeWeek": "59.47%",
+    "uptimeMonth": "59.47%",
+    "uptimeYear": "59.47%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 3
+    }
+  },
+  {
+    "name": "web",
+    "url": "vits-nightly.symcresol.com",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.51%",
+    "uptimeDay": "59.51%",
+    "uptimeWeek": "59.51%",
+    "uptimeMonth": "59.51%",
+    "uptimeYear": "59.51%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 4
+    }
+  },
+  {
+    "name": "web",
+    "url": "https://scs71.com",
+    "icon": "https://favicons.githubusercontent.com/scs71.com",
+    "slug": "web",
+    "status": "down",
+    "uptime": "59.35%",
+    "uptimeDay": "59.35%",
+    "uptimeWeek": "59.35%",
+    "uptimeMonth": "59.35%",
+    "uptimeYear": "59.35%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
+    "dailyMinutesDown": {
+      "2021-06-10": 4
+    }
+  },
+  {
+    "name": "web",
     "url": "https://asdasd.koj.co",
     "icon": "https://favicons.githubusercontent.com/asdasd.koj.co",
-    "slug": "test-broken-site2",
+    "slug": "web",
     "status": "down",
-    "uptime": "7.80%",
-    "uptimeDay": "7.80%",
-    "uptimeWeek": "7.80%",
-    "uptimeMonth": "7.80%",
-    "uptimeYear": "7.80%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "59.38%",
+    "uptimeDay": "59.38%",
+    "uptimeWeek": "59.38%",
+    "uptimeMonth": "59.38%",
+    "uptimeYear": "59.38%",
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
     "dailyMinutesDown": {
-      "2021-06-10": 57
+      "2021-06-10": 4
     }
   }
 ]
