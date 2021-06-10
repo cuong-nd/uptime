@@ -3,9 +3,121 @@ owner: cuongnd-scs # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: SCS71
+  - name: web
+    url: guardian-data.symcresol.com
+  - name: web  
+    url: www.gear71.com
+  - name: web  
+    url: gear71.com
+  - name: web  
+    url: captain-portal-nightly.scs71.com
+  - name: web  
+    url: vqs-one-nightly.scs71.com
+  - name: web  
+    url: captain-portal-staging.scs71.com
+  - name: web  
+    url: dock-scheduler-staging.scs71.com
+  - name: web  
+    url: vits-staging.scs71.com
+  - name: web  
+    url: vqs-one-staging.scs71.com
+  - name: web  
+    url: dock-scheduler-nightly.scs71.com
+  - name: web  
+    url: captain-portal.scs71.com
+  - name: web  
+    url: ooo.scs71.com
+  - name: web  
+    url: www.scs71.com
+  - name: web  
+    url: scs71.com
+  - name: web  
+    url: bacs-api.scs71.com
+  - name: web  
+    url: email.scs71.com
+  - name: web  
+    url: dock-scheduler.scs71.com
+  - name: web  
+    url: flamingo.scs71.com
+  - name: web  
+    url: g.scs71.com
+  - name: web  
+    url: snipe-one.scs71.com
+  - name: web  
+    url: vqs-one.scs71.com
+  - name: web  
+    url: cargoschedule.com
+  - name: web  
+    url: demo-crawler.cargoschedule.com
+  - name: web  
+    url: demo-csm.cargoschedule.com
+  - name: web  
+    url: demo.cargoschedule.com
+  - name: web  
+    url: nightly-com.cargoschedule.com
+  - name: web  
+    url: nightly-crawler.cargoschedule.com
+  - name: web  
+    url: nightly.cargoschedule.com
+  - name: web  
+    url: staging-com.cargoschedule.com
+  - name: web  
+    url: staging-crawler.cargoschedule.com
+  - name: web  
+    url: staging.cargoschedule.com
+  - name: web  
+    url: dock-scheduler.scs71.com
+  - name: web  
+    url: api-flamingo-sg.symcresol.com
+  - name: web  
+    url: bacs-api-nightly.symcresol.com
+  - name: web  
+    url: bacs-api-sg.symcresol.com
+  - name: web  
+    url: chatbot-crawler-sg.symcresol.com
+  - name: web  
+    url: chatbot-crawler.symcresol.com
+  - name: web  
+    url: error.symcresol.com
+  - name: web  
+    url: flamingo-nightly.symcresol.com
+  - name: web  
+    url: flamingo-nyk-sg.symcresol.com
+  - name: web  
+    url: flamingo-sg.symcresol.com
+  - name: web  
+    url: g.symcresol.com
+  - name: web
+    url: gear-staging.symcresol.com
+  - name: web  
+    url: gearnightly.symcresol.com
+  - name: web  
+    url: geartestingsg.symcresol.com
+  - name: web  
+    url: grafana.symcresol.com
+  - name: web  
+    url: guardian-data.symcresol.com
+  - name: web  
+    url: guardian-production.symcresol.com
+  - name: web  
+    url: homepage-nightly.symcresol.com
+  - name: web  
+    url: redash.symcresol.com
+  - name: web  
+    url: snipe-nightly.symcresol.com
+  - name: web  
+    url: snipe-sg.symcresol.com
+  - name: web  
+    url: vits-backend-staging.symcresol.com
+  - name: web  
+    url: vits-nightly-be.symcresol.com
+  - name: web  
+    url: vits-nightly-ecs.symcresol.com
+  - name: web  
+    url: vits-nightly.symcresol.com
+  - name: web
     url: https://scs71.com
-  - name: Test Broken Site2 
+  - name: web 
     url: https://asdasd.koj.co
 
 status-website:
