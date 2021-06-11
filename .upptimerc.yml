@@ -3,8 +3,6 @@ owner: cuongnd-scs # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
-  - name: web1
-    url: guardian-data.symcresol.com
   - name: web2
     url: www.gear71.com
   - name: web3  
@@ -31,8 +29,6 @@ sites:
     url: www.scs71.com
   - name: web14  
     url: scs71.com
-  - name: web15  
-    url: bacs-api.scs71.com
   - name: web17  
     url: dock-scheduler.scs71.com
   - name: web18  
@@ -61,12 +57,6 @@ sites:
     url: staging.cargoschedule.com
   - name: web32  
     url: dock-scheduler.scs71.com
-  - name: web33  
-    url: api-flamingo-sg.symcresol.com
-  - name: web34  
-    url: bacs-api-nightly.symcresol.com
-  - name: web35  
-    url: bacs-api-sg.symcresol.com
   - name: web36
     url: error.symcresol.com
   - name: web37
@@ -93,8 +83,6 @@ sites:
     url: snipe-nightly.symcresol.com
   - name: web49  
     url: snipe-sg.symcresol.com
-  - name: web50  
-    url: vits-backend-staging.symcresol.com
   - name: web51  
     url: vits-nightly-be.symcresol.com
   - name: web52  
