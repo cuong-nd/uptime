@@ -1,5 +1,5 @@
 # Change these first
-owner: cuongnd-scs # Your GitHub organization or username, where this repository lives
+owner: cuong-nd # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/cuongnd-scs/uptime). No server required — just GitHub Actions, Issues, and Pages.
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/cuong-nd/uptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
@@ -27,4 +27,4 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 assignees:
-  - cuongnd-scs
+  - cuong-nd
