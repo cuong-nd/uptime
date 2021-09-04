@@ -22,10 +22,10 @@
     "url": "http://cuong-dev.ml",
     "icon": "https://favicons.githubusercontent.com/cuong-dev.ml",
     "slug": "cuong-dev-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
@@ -33,16 +33,18 @@
     "timeWeek": 469,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 1
+    }
   },
   {
     "name": "docs.cuong-dev.ml",
     "url": "http://docs.cuong-dev.ml",
     "icon": "https://favicons.githubusercontent.com/docs.cuong-dev.ml",
     "slug": "docs-cuong-dev-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 464,
     "timeMonth": 455,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-04": 0
+    }
   }
 ]
