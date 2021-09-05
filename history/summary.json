@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 728,
-    "timeWeek": 825,
-    "timeMonth": 927,
-    "timeYear": 917,
+    "time": 918,
+    "timeDay": 988,
+    "timeWeek": 862,
+    "timeMonth": 925,
+    "timeYear": 918,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/cuong-dev.ml",
     "slug": "cuong-dev-ml",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "98.20%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 691,
-    "timeDay": 2397,
-    "timeWeek": 942,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 662,
+    "timeDay": 2268,
+    "timeWeek": 954,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2021-09-04": 26
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 4344,
-    "timeWeek": 1439,
-    "timeMonth": 1055,
-    "timeYear": 1055,
+    "time": 1031,
+    "timeDay": 4487,
+    "timeWeek": 1502,
+    "timeMonth": 1031,
+    "timeYear": 1031,
     "dailyMinutesDown": {}
   }
 ]
