@@ -42,9 +42,9 @@
     "url": "http://docs.cuong-dev.ml",
     "icon": "https://favicons.githubusercontent.com/docs.cuong-dev.ml",
     "slug": "docs-cuong-dev-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 366,
     "timeMonth": 639,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 0
+    }
   }
 ]
