@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 723,
-    "timeWeek": 840,
-    "timeMonth": 868,
-    "timeYear": 892,
+    "time": 891,
+    "timeDay": 708,
+    "timeWeek": 822,
+    "timeMonth": 860,
+    "timeYear": 891,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 609,
-    "timeDay": 370,
-    "timeWeek": 918,
-    "timeMonth": 765,
-    "timeYear": 609,
+    "time": 603,
+    "timeDay": 224,
+    "timeWeek": 923,
+    "timeMonth": 735,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2021-09-04": 26
     }
@@ -44,15 +44,15 @@
     "slug": "docs-cuong-dev-ml",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 643,
-    "timeDay": 882,
+    "time": 638,
+    "timeDay": 324,
     "timeWeek": 498,
-    "timeMonth": 560,
-    "timeYear": 643,
+    "timeMonth": 557,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2021-10-25": 26
     }
