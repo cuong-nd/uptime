@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 837,
-    "timeDay": 111,
-    "timeWeek": 92,
-    "timeMonth": 92,
+    "timeDay": 946,
+    "timeWeek": 216,
+    "timeMonth": 119,
     "timeYear": 832,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuong-dev.ml.ico",
     "slug": "cuong-dev-ml",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
     "time": 649,
-    "timeDay": 381,
-    "timeWeek": 531,
-    "timeMonth": 566,
-    "timeYear": 623,
+    "timeDay": 517,
+    "timeWeek": 497,
+    "timeMonth": 569,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2022-07-19": 60,
       "2022-07-01": 22,
@@ -51,8 +51,7 @@
       "2022-02-06": 484,
       "2022-01-27": 17,
       "2022-01-19": 828,
-      "2022-01-18": 1440,
-      "2022-01-17": 780
+      "2022-01-18": 1440
     }
   },
   {
@@ -66,10 +65,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
-    "time": 610,
-    "timeDay": 374,
-    "timeWeek": 468,
-    "timeMonth": 405,
+    "time": 608,
+    "timeDay": 288,
+    "timeWeek": 456,
+    "timeMonth": 401,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2022-09-15": 38,
@@ -86,8 +85,7 @@
       "2022-01-27": 35,
       "2022-01-24": 21,
       "2022-01-19": 829,
-      "2022-01-18": 1440,
-      "2022-01-17": 780
+      "2022-01-18": 1440
     }
   }
 ]
