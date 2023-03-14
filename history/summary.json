@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 142,
-    "timeWeek": 111,
-    "timeMonth": 167,
-    "timeYear": 728,
+    "time": 759,
+    "timeDay": 71,
+    "timeWeek": 113,
+    "timeMonth": 166,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "96.93%",
     "uptimeWeek": "96.62%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "99.77%",
-    "time": 1208,
-    "timeDay": 5721,
-    "timeWeek": 5891,
-    "timeMonth": 4581,
-    "timeYear": 1314,
+    "uptimeYear": "99.84%",
+    "time": 1213,
+    "timeDay": 6216,
+    "timeWeek": 5949,
+    "timeMonth": 4614,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2023-03-13": 44,
       "2023-03-11": 46,
@@ -46,8 +46,7 @@
       "2022-07-01": 22,
       "2022-06-30": 43,
       "2022-06-21": 49,
-      "2022-06-16": 22,
-      "2022-03-14": 94
+      "2022-06-16": 22
     }
   },
   {
@@ -57,15 +56,15 @@
     "slug": "docs-cuong-dev-ml",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "97.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "99.84%",
-    "time": 1230,
-    "timeDay": 5332,
-    "timeWeek": 6750,
-    "timeMonth": 5112,
-    "timeYear": 1343,
+    "uptimeYear": "99.91%",
+    "time": 1228,
+    "timeDay": 126,
+    "timeWeek": 6777,
+    "timeMonth": 5107,
+    "timeYear": 1344,
     "dailyMinutesDown": {
       "2023-03-12": 73,
       "2023-03-11": 33,
@@ -76,8 +75,7 @@
       "2023-03-03": 20,
       "2023-02-28": 22,
       "2022-09-15": 38,
-      "2022-07-19": 59,
-      "2022-03-14": 93
+      "2022-07-19": 59
     }
   }
 ]
