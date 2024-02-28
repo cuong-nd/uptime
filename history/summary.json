@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 116,
-    "timeWeek": 89,
-    "timeMonth": 96,
+    "time": 229,
+    "timeDay": 127,
+    "timeWeek": 94,
+    "timeMonth": 98,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuong-dev.ml.ico",
     "slug": "cuong-dev-ml",
     "status": "down",
-    "uptime": "62.82%",
+    "uptime": "62.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.86%",
-    "time": 2822,
+    "uptimeYear": "7.60%",
+    "time": 2830,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5089,
+    "timeYear": 5084,
     "dailyMinutesDown": {
-      "2024-02-27": 76,
+      "2024-02-28": 75,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -389,8 +390,7 @@
       "2023-03-09": 90,
       "2023-03-06": 39,
       "2023-03-05": 20,
-      "2023-03-03": 22,
-      "2023-02-28": 112
+      "2023-03-03": 22
     }
   },
   {
@@ -399,18 +399,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.cuong-dev.ml.ico",
     "slug": "docs-cuong-dev-ml",
     "status": "down",
-    "uptime": "62.84%",
+    "uptime": "62.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.91%",
-    "time": 2848,
+    "uptimeYear": "7.63%",
+    "time": 2855,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5653,
+    "timeYear": 5680,
     "dailyMinutesDown": {
-      "2024-02-27": 76,
+      "2024-02-28": 75,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -764,8 +765,7 @@
       "2023-03-09": 52,
       "2023-03-06": 18,
       "2023-03-05": 16,
-      "2023-03-03": 20,
-      "2023-02-28": 22
+      "2023-03-03": 20
     }
   }
 ]
