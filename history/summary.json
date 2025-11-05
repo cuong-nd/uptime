@@ -4,19 +4,19 @@
     "url": "https://scs71.com",
     "icon": "https://icons.duckduckgo.com/ip3/scs71.com.ico",
     "slug": "scs71-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 143,
-    "timeWeek": 208,
-    "timeMonth": 170,
-    "timeYear": 137,
+    "time": 136,
+    "timeDay": 471,
+    "timeWeek": 282,
+    "timeMonth": 190,
+    "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-11-05": 1
+      "2025-11-05": 24
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 1137,
+      "2025-11-05": 1160,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -420,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 1137,
+      "2025-11-05": 1160,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
